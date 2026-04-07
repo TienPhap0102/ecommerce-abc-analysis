@@ -11,7 +11,6 @@ Operating a modern e-commerce platform with over 4,000 active SKUs and a rapidly
 This project bridges the gap between raw transactional data and strategic decision-making. The primary objectives are to:
 
 - Optimize Inventory Operations: Identify the critical product lines that deserve premium warehouse space and strict inventory control.
-- 
 - Maximize Marketing ROI: Pinpoint the absolute top 500 high-value customers to receive an exclusive Loyalty Program reward, ensuring the marketing budget is spent where it generates the highest retention value.
 
 ## 🗄️ **Data Architecture & Tech Stack**
